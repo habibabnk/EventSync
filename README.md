@@ -23,7 +23,7 @@ and a dynamic React interface with advanced filtering capabilities.
 |-------|------------|
 | Back-end | Python, Flask, REST API |
 | Front-end | React.js, Axios |
-| Database | SQL |
+| Database | TinyDB |
 | Versioning | Git, GitHub |
 
 ---
